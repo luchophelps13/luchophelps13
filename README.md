@@ -10,7 +10,7 @@ Projects:
 - Created a website to predict brain cancer based on MRI Images 
 - Created a Python Package to Help Automate Common Web Scraping Tasks
 - Created a Flask web app where you can enter an NBA player and machine learning is used to return how many points the model predicts it will average this season.  
-- https://nba-machine-learning.herokuapp.com/
+https://nba-machine-learning.herokuapp.com/
 - and more! (Check repositories)
 
 <!--
