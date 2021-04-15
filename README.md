@@ -12,14 +12,4 @@ Projects:
 - Created a Flask web app where you can enter an NBA player and machine learning is used to return how many points the model predicts it will average this season.  
 https://nba-machine-learning.herokuapp.com/
 - and more! (Check repositories)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: deploying a CNN to classify brain MRIs, soon to be starting game development.
-- 🌱 I’m currently learning: Deep Learning, Computer Networking, Game Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music, sports, and video games.
