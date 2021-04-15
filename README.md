@@ -2,7 +2,7 @@
 
 High School Freshman
 
-Learning Python, JS, HTML/CSS, C++
+Learning Python, JS, HTML/CSS, C++, C#
 
 Interests: Machine Learning, Web Development, Computer Networking, Computer Vision, Game Development (Just Starting!)
 
@@ -12,9 +12,6 @@ Projects:
 - Created a Flask web app where you can enter an NBA player and machine learning is used to return how many points the model predicts it will average this season.  
 https://nba-machine-learning.herokuapp.com/
 - and more! (Check repositories)
-
-<!--
-**luchophelps13/luchophelps13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music, sports, and video games.
--->
