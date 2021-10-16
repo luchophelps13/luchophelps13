@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-High School Freshman
+High School Sophomore
 
 Skills: Python, C# and Unity (Basic)
 Learning: HtML/CSS, Javascript, C++, Unreal Engine
